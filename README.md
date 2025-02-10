@@ -3,7 +3,7 @@
 Stock Market Price Prediction using Machine Learning is a project that leverages predictive modeling techniques to forecast stock prices based on historical data. The project employs various machine learning algorithms to analyze stock trends and make informed predictions.
 
 ## Features
-- Data collection from various sources (Yahoo Finance, Alpha Vantage, etc.)
+- Data collection from various sources (Yahoo Finance, Alpha Vantage, etc)
 - Data preprocessing (handling missing values, normalization, feature engineering)
 - Machine learning model selection (Linear Regression, LSTM )
 - Model training and evaluation using performance metrics
