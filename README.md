@@ -39,12 +39,9 @@ The project uses stock market data, which can be obtained from:
 - Mean Squared Error (MSE)
 - Mean Absolute Error (MAE)
 - Root Mean Squared Error (RMSE)
-- R-squared (R²)
 
 ## Future Improvements
-- Incorporate sentiment analysis from financial news
 - Implement reinforcement learning for trading strategies
-- Improve feature selection techniques
 - Enhance UI for better user experience
 
 ## Contributing
