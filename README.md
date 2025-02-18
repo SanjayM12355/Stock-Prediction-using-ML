@@ -21,7 +21,7 @@ Stock Market Price Prediction using Machine Learning is a project that leverages
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/Vruthvik48/stock-market-prediction.git
+   git clone https://github.com/SanjayM12355/Stock-Prediction-using-ML.git
    cd stock-market-prediction
    ```
 2. Install required dependencies:
